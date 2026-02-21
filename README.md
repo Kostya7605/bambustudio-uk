@@ -64,3 +64,8 @@ To restore the original translation, rename `BambuStudio_original.mo` back to `B
 - Same app version → new revision tag  
   Example: `v2.5.0.66-r2`
 
+---
+
+## 📜 License
+
+MIT
