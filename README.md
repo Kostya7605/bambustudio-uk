@@ -14,7 +14,7 @@ Download the latest compiled file (`BambuStudio.mo`) from the **Releases** secti
 
 ## 🔧 Compatibility
 
-- Bambu Studio version: **2.5.0.66**
+- Compatible with recent versions of Bambu Studio
 - Locale: **uk_UA**
 
 ---
