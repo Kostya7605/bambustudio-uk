@@ -21,15 +21,9 @@ Download the latest compiled file (`BambuStudio.mo`) from the **Releases** secti
 
 ## 📊 Translation Status
 
-- Total strings: **4997**
-- Translated: **3427 (68%)**
-- Remaining: **1570**
+The translation started from the original Ukrainian localization, which at the time of the current official base contained 3,427 strings. After updating the base, it turned out that the current version of the program has 4,997 strings. Thus, the Ukrainian translation covered only about 68% of the strings used in the program. The original translation required corrections and optimization. Work on translating the remaining strings has begun.
 
-The current translation base was synchronized with the official Ukrainian localization.
-Ongoing revisions aim to improve terminology consistency, fix inaccuracies, and refine technical wording.
-
-Поточна база перекладу синхронізована з офіційною українською локалізацією.
-Подальша робота спрямована на виправлення неточностей, уніфікацію термінології та покращення технічної коректності.
+Переклад розпочався з оригінальної української локалізації, яка на момент актуальної офіційної бази містила 3,427 рядків. Після оновлення бази виявилося, що актуальна версія програми налічує 4,997 рядків. Таким чином, український переклад покривав лише близько 68% рядків, що використовуються в програмі. Оригінальний переклад потребував правок та оптимізації. Почато роботу над перекладом відсутніх рядків.
 
 ---
 
